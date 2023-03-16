@@ -4,7 +4,7 @@ This program is an educational game that tests knowledge about the states of the
 
 ## Usage
 
-You can download the project and run the main file as long as you have Python installed. You just have to try to guess the name of the next state until you don't know anymore.
+You can download the project and run the main file as long as you have Python installed. You also need to have the [Pandas library installed in Python](https://pandas.pydata.org/docs/getting_started/install.html). You just have to try to guess the name of the next state until you don't know anymore.
 
 https://user-images.githubusercontent.com/122944322/224904637-14b92096-f346-40c4-880f-b23d27e65fe9.mp4
 
